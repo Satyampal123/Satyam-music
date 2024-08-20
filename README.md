@@ -1,2 +1,2 @@
 # Satyam-music
-This is Satyam DJ's Website
+This is Satyam's DJ
